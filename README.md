@@ -1,9 +1,9 @@
 example of defi platform for user to take token, year yields, issue token, and unstake. 
 
 run:
-brownie run .\scripts\deploy.py --network rinkeby
-brownie run .\scripts\deploy.py --network kovan
-brownie run .\scripts\deploy.py 
+1. brownie run .\scripts\deploy.py --network rinkeby
+2. brownie run .\scripts\deploy.py --network kovan
+3. brownie run .\scripts\deploy.py 
 
 for front_end setup:
 1. install yarn, npx
